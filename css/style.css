@@ -1,0 +1,22 @@
+.navbar-nav {
+    margin-left: auto;
+}
+
+body {
+    background-image: url("../images/bg-pattern.jpg");
+    background-size: cover;
+    /* background-position: top;
+    background-repeat: no-repeat;
+    margin-bottom: 25px;
+    height: 800px;
+    width: 100%; */
+}
+
+p {
+    color: rgb(190, 190, 190);
+}
+
+h1 {
+    border-bottom: white 1px solid;
+
+}
