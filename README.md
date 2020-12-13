@@ -11,9 +11,17 @@ In this project, I created a responsive mobile-first webpage using Bootstrap 4 a
 
 ## Credits
  
-<a href='https://www.freepik.com/vectors/background'>Background vector created by visnezh - www.freepik.com</a>
+* <a href='https://www.freepik.com/vectors/background'>Background vector created by visnezh - www.freepik.com</a>
 
-Bootstrap 4
+* Bootstrap 4
+
+## Screenshots
+
+Below, I have included screenshots of one page to demonstrate desktop vs mobile responsiveness:
+
+![Screenshot example 1](images/responsive-02.png)
+
+![Screenshot example 2](images/responsive-01.png)
 
 ## URL
 
