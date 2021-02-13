@@ -22,3 +22,38 @@ h1 {
  .rounded {
      width: 250px;
  }
+
+#profile-img:hover {
+    filter: grayscale(100%);
+}
+
+#head-shad {
+    text-shadow: 4px 4px #ffffff;
+    letter-spacing: 0.2em;
+}
+
+.fa-linkedin {
+   
+    color: #007bb5;
+   /* padding: 15px;
+    font-size: 70px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 5px 2px;*/
+} 
+.fa:hover {
+    opacity: 0.7;
+  }
+.fa-github {
+    color: black;
+}
+#hero {
+    background-color: #EAEAEA;
+}
+
+.navbar-brand:hover {
+    letter-spacing: 0.2em;
+}
