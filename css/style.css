@@ -2,10 +2,7 @@
     font-family: 'Noto Serif', serif;
 }
 
-.navbar-nav {
-    margin-left: auto;
-}
-
+/* style by element */
 body {
     background-image: url("../images/bg-pattern.jpg");
     background-size: cover;
@@ -19,29 +16,19 @@ h1, h3 {
     border-bottom: white 1px solid;
 
 }
- .rounded {
-     width: 250px;
- }
 
-#profile-img:hover {
-    filter: grayscale(100%);
-}
-
-#head-shad {
-    text-shadow: 4px 4px #ffffff;
+/* navbar styling */
+.navbar-brand:hover {
     letter-spacing: 0.2em;
 }
 
+.navbar-nav {
+    margin-left: auto;
+}
+
+/* icon styling  */
 .fa-linkedin {
-   
     color: #007bb5;
-   /* padding: 15px;
-    font-size: 70px;
-    width: 50px;
-    height: 50px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;*/
     margin-right: 10px ; 
 } 
 .fa:hover {
@@ -54,6 +41,7 @@ h1, h3 {
     color: #6C757D;
 }
 
+/* hero styling */
 #hero {
     background-color: #EAEAEA;
 }
@@ -61,11 +49,51 @@ h1, h3 {
 .hero-text {
     color: #6C757D;
 }
+#profile-img:hover {
+    filter: grayscale(100%);
+}
 
-.navbar-brand:hover {
+#head-shad {
+    text-shadow: 4px 4px #ffffff;
     letter-spacing: 0.2em;
 }
 
+/* footer styling */
 #footer-ref {
     color: #6C757D;
 }
+
+/* fade in on load 
+https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08*/
+
+.fade-in {
+    animation: fadeIn ease 2s;
+    -webkit-animation: fadeIn ease 2s;
+    -moz-animation: fadeIn ease 2s;
+    -o-animation: fadeIn ease 2s;
+    -ms-animation: fadeIn ease 2s;
+    }
+    @keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
+    
+    @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+    }
