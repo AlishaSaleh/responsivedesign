@@ -63,9 +63,7 @@ h1, h3 {
     color: #6C757D;
 }
 
-/* fade in on load 
-https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08*/
-
+/* fade in on load */
 .fade-in {
     animation: fadeIn ease 2s;
     -webkit-animation: fadeIn ease 2s;
