@@ -40,4 +40,5 @@ Below I have included screenshots to demonstrate the page and its responsiveness
 ## License
 
 Standard MIT License
+
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
