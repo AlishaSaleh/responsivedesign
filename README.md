@@ -14,9 +14,12 @@ This project has been updated (Feb 2021) with the following:
 * Links to professional social media
 * Additional styling and hero added to Home Page
 
-## Credits
-
+## Technologies used
+* HTML
+* CSS
 * Bootstrap 4
+
+## Credits
 
 * <a href='https://www.freepik.com/vectors/background'>Background vector created by visnezh - www.freepik.com</a>
  
@@ -33,3 +36,9 @@ Below I have included screenshots to demonstrate the page and its responsiveness
 ## URL
 
 [Deployed URL](https://alishasaleh.github.io/responsivedesign/)
+
+## License
+
+Standard MIT License
+
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
